@@ -20,7 +20,7 @@
 -include device/lge/u2-common/BoardCommonConfig.mk
 
 # Kernel
-TARGET_KERNEL_CONFIG := cyanogenmod_p768_defconfig
+TARGET_KERNEL_CONFIG := custom_p768_defconfig
 TARGET_KERNEL_SOURCE := kernel/lge/omap4-common
 
 #Bluetooth
